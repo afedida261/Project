@@ -1,0 +1,5 @@
+the example outout
+{'waiting_time_for_admission': 27693.763355191513, 'waiting_time_in_hospital': 14500.906925314408, 'nervousness': 85680.0, 'personnel_cost': 28888}
+
+Monaya- heurstic 1
+{'waiting_time_for_admission': 27693.763355191513, 'waiting_time_in_hospital': 14500.906925314408, 'nervousness': 85680.0, 'personnel_cost': 28888}

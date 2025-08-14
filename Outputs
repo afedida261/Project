@@ -1,5 +1,8 @@
 the example outout
-{'waiting_time_for_admission': 27693.763355191513, 'waiting_time_in_hospital': 14500.906925314408, 'nervousness': 85680.0, 'personnel_cost': 28888}
+{'waiting_time_for_admission': 293702.9105269113, 'waiting_time_in_hospital': 4551553.200567839, 'nervousness': 2965953.0, 'personnel_cost': 733485}
 
 Monaya- heurstic 1
 {'waiting_time_for_admission': 27693.763355191513, 'waiting_time_in_hospital': 14500.906925314408, 'nervousness': 85680.0, 'personnel_cost': 28888}
+
+Aviv - Greedy heuristic 1
+{'waiting_time_for_admission': np.float64(4560908.984871904), 'waiting_time_in_hospital': 2918426.256188398, 'nervousness': 587664.0, 'personnel_cost': 729660}

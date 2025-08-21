@@ -6,3 +6,6 @@ Monaya- heurstic 1
 
 Aviv - Greedy heuristic 1
 {'waiting_time_for_admission': np.float64(4560908.984871904), 'waiting_time_in_hospital': 2918426.256188398, 'nervousness': 587664.0, 'personnel_cost': 729660}
+
+Monaya 21.8 15:55 this is after the schedule to monayavs1
+{'waiting_time_for_admission': 21251.905804674163, 'waiting_time_in_hospital': 11919.909809668965, 'nervousness': 68544.0, 'personnel_cost': 28885}
